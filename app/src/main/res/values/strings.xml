@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">assign5</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="project_update_fragment" />
+    <string name="hello_Project_fragment" />
+    <string name="hello_task_fragment" />
+    <string name="hello_task_update_fragment" />
+</resources>
